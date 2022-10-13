@@ -9,7 +9,6 @@ using System.Text;
 
 namespace domain
 {
-
     public class Role
     {
         public uint ID;
