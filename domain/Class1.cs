@@ -10,14 +10,6 @@ using System.Text;
 namespace domain
 {
 
-    public class Role
-    {
-        public uint ID;
-        Role(uint id)
-        {
-            ID = id;
-        }
-    }
 
     public class Specialization
     {
