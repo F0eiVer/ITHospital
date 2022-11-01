@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace domain.Classes
 {
-    internal class Doctor
+    class Doctor
     {
         public uint ID;
         public string fullName;

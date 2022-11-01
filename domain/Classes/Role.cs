@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace domain.Classes
 {
-    internal class Role
+    class Role
     {
         public uint ID;
         Role(uint id)

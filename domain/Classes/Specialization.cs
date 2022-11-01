@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace domain.Classes
 {
-    internal class Specialization
+    class Specialization
     {
         public uint ID;
         public string name;

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace domain.Classes
 {
-    internal class Timetable
+    class Timetable
     {
         public uint doctorID;
         public string startTime, finishTime;

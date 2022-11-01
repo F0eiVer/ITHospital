@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace domain.Classes
 {
-    internal class Appointment
+    class Appointment
     {
         public string startTime, finishTime;
         public uint patientID, doctorID;
