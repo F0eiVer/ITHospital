@@ -43,6 +43,12 @@
     <Reference Include="Microsoft.Analytics.Types" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Appointment.cs" />
+    <Compile Include="Classes\Doctor.cs" />
+    <Compile Include="Classes\Role.cs" />
+    <Compile Include="Classes\Specialization.cs" />
+    <Compile Include="Classes\Timetable.cs" />
+    <Compile Include="Classes\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
